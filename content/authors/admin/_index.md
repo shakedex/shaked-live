@@ -11,12 +11,12 @@ social:
   - display:
       header: true
     link: http://instagram.com/shakedlipszyc
-    icon_pack: far
+    icon_pack: fab
     icon: instagram
   - display:
       header: true
     link: https://www.linkedin.com/in/shaked-lipszyc-3a209797
-    icon_pack: far
+    icon_pack: fab
     icon: linkedin
 organizations:
   - name: Reichman University

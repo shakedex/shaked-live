@@ -2,7 +2,7 @@
 title: Shaked Lipszyc
 role: 2nd Assistant Camera, Digital Imaging Technician, Broadcast Technician,
   Bolt Operator
-avatar_filename: https://scontent.fsdv3-1.fna.fbcdn.net/v/t1.6435-9/83757071_10213372515182265_7307520506318553088_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dzNQItykmo8AX8lnOzU&_nc_ht=scontent.fsdv3-1.fna&oh=00_AT_j3TLk9nXWNBguwYx9JtdDk8HjtCFmcG8Ed0WFRdXkqA&oe=6281B670
+avatar_filename: ""
 bio: short biography line
 social:
   - icon: envelope
